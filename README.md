@@ -1,2 +1,3 @@
 # sparta
-This is sparta
+This is sparta!
+We do not kneel.
